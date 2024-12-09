@@ -99,7 +99,7 @@ Special thanks to [GameDev.tv](https://www.gamedev.tv/) for creating an engaging
 
 If you're passionate about game development or are on a similar journey, let’s connect!  
 - LinkedIn: [Mohammed Albattrawi](https://linkedin.com/in/mohammed-albattrawi)  
-- Instagram: [@batra.gamedev](https://instagram.com/batra.gamedev)  
+- Instagram: [@batra.gamedev](https://instagram.com/gamedevbatra)  
 
 ---
 **Happy Gaming! 🎮**
